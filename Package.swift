@@ -29,7 +29,7 @@ let package = Package(
     .package(
       name: "PangleSDK",
       url: "https://github.com/bytedance/AdsGlobalPackage.git",
-      .exact("7.9.0-release.6")
+      .exact("7.8.5-release.7")
     )
   ],
   targets: [
